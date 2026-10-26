@@ -28,5 +28,11 @@
     "scientificName": "Macropus rufus",
     "habitat": "Australian deserts and open grasslands",
     "description": "The largest marsupial, using powerful hind legs for hopping and a strong tail for balance."
+  },
+  {
+    "commonName": "Giant Panda",
+    "scientificName": "Ailuropoda melanoleuca",
+    "habitat": "Temperate broadleaf and mixed forests in China",
+    "description": "A bear species known for its distinctive black-and-white coloring and diet primarily consisting of bamboo."
   }
 ]
