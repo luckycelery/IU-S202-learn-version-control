@@ -34,5 +34,11 @@
     "scientificName": "Ailuropoda melanoleuca",
     "habitat": "Temperate broadleaf and mixed forests in China",
     "description": "A bear species known for its distinctive black-and-white coloring and diet primarily consisting of bamboo."
+  },
+  {
+    "commonName": "Snow Leopard",
+    "scientificName": "Panthera uncia",
+    "habitat": "Mountain ranges of Central and South Asia",
+    "description": "A large cat adapted to cold, mountainous environments, known for its thick fur and long tail."
   }
 ]
